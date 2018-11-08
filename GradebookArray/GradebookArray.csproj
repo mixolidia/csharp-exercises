@@ -5,7 +5,6 @@
     <AssemblyName>GradebookArray</AssemblyName>
     <OutputType>Exe</OutputType>
     <PackageId>GradebookArray</PackageId>
-    <RuntimeFrameworkVersion>2.0</RuntimeFrameworkVersion>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
